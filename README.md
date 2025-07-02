@@ -34,7 +34,7 @@ This project contains a Python server (`server.py`) and associated configuration
 
 To start the server, run the following command:
 ```bash
-python server.py
+python api/index.py
 ```
 The server will start and listen for incoming requests on a default port. Refer to `server.py` for specific configuration details.
 
